@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dzap-test/static/js/main.cac9b22d.js",
+    "index.html": "/dzap-test/index.html",
+    "main.cac9b22d.js.map": "/dzap-test/static/js/main.cac9b22d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cac9b22d.js"
+  ]
+}
